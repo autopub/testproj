@@ -1,6 +1,11 @@
 CHANGELOG
 =========
 
+0.1.1 - 2019-07-07
+------------------
+
+Remove spurious configuration from pyproject file.
+
 0.1.0 - 2019-07-05
 ------------------
 
