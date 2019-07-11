@@ -1,6 +1,12 @@
 CHANGELOG
 =========
 
+0.1.3 - 2019-07-11
+------------------
+
+* Update CircleCI configuration with new AutoPub subcommands
+* Add version number to package `__init__.py`
+
 0.1.2 - 2019-07-07
 ------------------
 
