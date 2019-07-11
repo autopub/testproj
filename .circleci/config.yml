@@ -30,8 +30,8 @@ jobs:
       - run: sudo chown -R circleci:circleci /usr/local/bin
       - run: sudo chown -R circleci:circleci /usr/local/lib/python3.7/site-packages
       - run: pip install -i https://test.pypi.org/simple/ --pre autopub
-      - run: autopub check
       - run: pip install githubrelease
+      - run: autopub check
       - run: autopub prepare
       - run: poetry build
       - run: autopub commit
