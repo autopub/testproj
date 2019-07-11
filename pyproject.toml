@@ -23,6 +23,7 @@ say-hello = "testproj.hello:hello"
 project-name = "TestProj"
 git-username = "botpub"
 git-email = "botpub@autopub.rocks"
+version-strings = ["testproj/__init__.py"]
 
 [build-system]
 requires = ["poetry>=0.12"]
