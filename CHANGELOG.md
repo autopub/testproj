@@ -1,6 +1,11 @@
 CHANGELOG
 =========
 
+0.1.6 - 2019-07-20
+------------------
+
+Trigger new release to test compatibility with latest AutoPub version.
+
 0.1.5 - 2019-07-11
 ------------------
 
