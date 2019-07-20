@@ -1,6 +1,11 @@
 CHANGELOG
 =========
 
+0.1.9 - 2019-07-20
+------------------
+
+Remove non-working tag filters in CircleCI configuration.
+
 0.1.8 - 2019-07-20
 ------------------
 
