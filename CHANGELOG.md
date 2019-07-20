@@ -1,6 +1,11 @@
 CHANGELOG
 =========
 
+0.1.7 - 2019-07-20
+------------------
+
+Skip CI test and deploy workflows on tagged commits.
+
 0.1.6 - 2019-07-20
 ------------------
 
